@@ -3,17 +3,29 @@
 Welcome to my GitHub profile repository! Here's a little bit about me:
 
 ## 🌱 About Me
-- 🎓 **Currently Pursing:** B.tech Computer Engineering
+- 🎓 **Currently Learning:** Computer Engineering
 - 💻 **Interests:** Programming, Problem Solving, and Building Cool Projects
 - 📫 **Contact Me:** [pateldaksh8735@gmail.com](mailto:pateldaksh8735@gmail.com)
 
-## 🚀 Skills & Tools
-- **Programming Languages:** [Add your preferred languages, e.g., Python, Java, C++]
-- **Tools & Technologies:** [Add tools you use, e.g., Git, VS Code, etc.]
-- **Currently Exploring:** [Add topics you're currently learning, e.g., Web Development, Machine Learning, etc.]
+---
 
-## 📈 GitHub Stats
-![Daksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dakshpatel008&show_icons=true&theme=radical)
+## 🛠️ Technologies & Tools
+Here are some of the technologies and tools I work with:
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
+---
+
+### 🔥 Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshpatel008&layout=compact&theme=radical)
+
+---
 
 ## 🌐 Connect with Me
 - [LinkedIn](#) *(Add your LinkedIn profile link)*
